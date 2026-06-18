@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765352817812",
+    "project_id": "sose26-hwr-app",
+    "storage_bucket": "sose26-hwr-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765352817812:android:734b6b7b0363a0a05c7081",
+        "android_client_info": {
+          "package_name": "com.example.solaryield"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx_iDsRy15mmvJWeEfPwCvmU_EoQpra1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
